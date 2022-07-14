@@ -6,7 +6,7 @@ For example:
 Input: "Character"
 Output: c*/
 
-// program to check the number of occurrence of a character
+// program to check the number of occurrence of a character 
 
 const str = "Archana";
 const myString = str.toUpperCase();
