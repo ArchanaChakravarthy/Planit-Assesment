@@ -1,0 +1,44 @@
+Task One:
+Due to time constraints, you only have time to complete automation testing of 10 scenario’s for this new website. https://jupiter.cloud.planittesting.com/#/
+Determine 10 test cases which reflects the priorities of this website
+
+*Note: This is Planit's training sample website and no data will be saved or stored
+
+Test Scenario 1:   Login Functionality
+Ensure that the User is able to login successfully
+
+Test Scenario 2: Contact details form submission
+Ensure the contact detials submitted is successfully
+
+Test Scenario 3: Add Items to Cart
+Check the ability to add the single /multiple items to the cart
+
+Test Scenario 4: Correct Total price validation
+Confirm the total price reflects unit price and quantity correctly
+
+Test Scenario 5: Removal of items in cart
+Check the ability to remove the items from the cart
+
+Test Scenario 6: Checkout functionality
+Check the ability for the user to checkout successfully
+
+Test Scenario 7: Payment functionality
+Check the Payments functionality works successfully and correct amount is deducted
+
+Test Scenario 8: Validate Cards
+Check that  correct card details are entered.
+
+Test Scenario 9: Data validation in payment screen
+Check the ability to submit the payment with all mandatory details and with incorrect data.
+
+Test Scenario 10: Items picture validation
+Check  that all the pictures displayed correctly in product display page
+
+
+Other than the test scenarios above, some basic features are missing in this website
+1.Option to sign up/register to the site 
+2.Option to retrieve forgotten password
+3.Option to search for items
+4.Option to logout 
+5.Option to add payment method like cheque and cash on delivery
+6. Option to add discount coupon 
